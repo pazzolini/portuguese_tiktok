@@ -1,0 +1,22 @@
+{
+  "political_parties": {
+    "partidosocialista": "PS (Partido Socialista)",
+    "partidosocialdemocrata": "PSD (Partido Social Democrata)",
+    "chega.oficial": "Chega",
+    "blocodeesquerdaoficial": "BE (Bloco de Esquerda)",
+    "liberalpt": "IL (Iniciativa Liberal)",
+    "livrenotiktok": "Livre",
+    "partido.pan": "PAN (Pessoas-Animais-Natureza)",
+    "cds_pp": "CDS-PP (CDS-Partido Popular)",
+    "pcp.pt": "PCP (Partido Comunista Português)",
+    "partidorir": "RIR (Reagir, Incluir, Reciclar)",
+    "nova_direita": "Nova Direita",
+    "voltportugal": "Volt Portugal",
+    "adn.portugal": "ADN (Alternativa Democrática Nacional)",
+    "juntospelopovo": "JPP (Juntos Pelo Povo)",
+    "partdioerguete": "Ergue-te",
+    "partidopopularmonarquico": "PPM (Partido Popular Monárquico)",
+    "partido.quinto.portugal": "Partido Quinto Portugal",
+    "partidoliberalsocial": "Partido Liberal Social"
+  }
+}

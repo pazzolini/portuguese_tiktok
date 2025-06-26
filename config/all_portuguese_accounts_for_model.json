@@ -1,0 +1,570 @@
+[
+  {
+    "account_username": "partidosocialista",
+    "account_name": "PS (Partido Socialista)",
+    "account_type": "party",
+    "associated_party": "PS (Partido Socialista)",
+    "party_lrecon_label": "left",
+    "party_galtan_label": "left"
+  },
+  {
+    "account_username": "partidosocialdemocrata",
+    "account_name": "PSD (Partido Social Democrata)",
+    "account_type": "party",
+    "associated_party": "PSD (Partido Social Democrata)",
+    "party_lrecon_label": "right",
+    "party_galtan_label": "right"
+  },
+  {
+    "account_username": "chega.oficial",
+    "account_name": "Chega",
+    "account_type": "party",
+    "associated_party": "Chega",
+    "party_lrecon_label": "far_right",
+    "party_galtan_label": "far_right"
+  },
+  {
+    "account_username": "blocodeesquerdaoficial",
+    "account_name": "BE (Bloco de Esquerda)",
+    "account_type": "party",
+    "associated_party": "BE (Bloco de Esquerda)",
+    "party_lrecon_label": "far_left",
+    "party_galtan_label": "far_left"
+  },
+  {
+    "account_username": "liberalpt",
+    "account_name": "IL (Iniciativa Liberal)",
+    "account_type": "party",
+    "associated_party": "IL (Iniciativa Liberal)",
+    "party_lrecon_label": "far_right",
+    "party_galtan_label": "left"
+  },
+  {
+    "account_username": "livrenotiktok",
+    "account_name": "Livre",
+    "account_type": "party",
+    "associated_party": "Livre",
+    "party_lrecon_label": "left",
+    "party_galtan_label": "far_left"
+  },
+  {
+    "account_username": "partido.pan",
+    "account_name": "PAN (Pessoas-Animais-Natureza)",
+    "account_type": "party",
+    "associated_party": "PAN (Pessoas-Animais-Natureza)",
+    "party_lrecon_label": "left",
+    "party_galtan_label": "far_left"
+  },
+  {
+    "account_username": "cds_pp",
+    "account_name": "CDS-PP (CDS-Partido Popular)",
+    "account_type": "party",
+    "associated_party": "CDS-PP (CDS-Partido Popular)",
+    "party_lrecon_label": "right",
+    "party_galtan_label": "far_right"
+  },
+  {
+    "account_username": "pcp.pt",
+    "account_name": "PCP (Partido Comunista Português)",
+    "account_type": "party",
+    "associated_party": "PCP (Partido Comunista Português)",
+    "party_lrecon_label": "far_left",
+    "party_galtan_label": "left"
+  },
+    {
+    "account_username": "psd_parlamento",
+    "account_name": "PSD Parlamento",
+    "account_type": "parliamentary_group",
+    "associated_party": "PSD (Partido Social Democrata)",
+    "party_lrecon_label": "right",
+    "party_galtan_label": "right"
+  },
+  {
+    "account_username": "juventudesocialdemocrata",
+    "account_name": "JSD",
+    "account_type": "youth_wing",
+    "associated_party": "PSD (Partido Social Democrata)",
+    "party_lrecon_label": "right",
+    "party_galtan_label": "right"
+  },
+  {
+    "account_username": "juventude_socialista",
+    "account_name": "JS",
+    "account_type": "youth_wing",
+    "associated_party": "PS (Partido Socialista)",
+    "party_lrecon_label": "left",
+    "party_galtan_label": "left"
+  },
+  {
+    "account_username": "ps_parlamento",
+    "account_name": "PS Parlamento",
+    "account_type": "parliamentary_group",
+    "associated_party": "PS (Partido Socialista)",
+    "party_lrecon_label": "left",
+    "party_galtan_label": "left"
+  },
+  {
+    "account_username": "jovensdobloco",
+    "account_name": "Jovens do BE",
+    "account_type": "youth_wing",
+    "associated_party": "BE (Bloco de Esquerda)",
+    "party_lrecon_label": "far_left",
+    "party_galtan_label": "far_left"
+  },
+  {
+    "account_username": "jcp.pt",
+    "account_name": "Juventude PCP",
+    "account_type": "youth_wing",
+    "associated_party": "PCP (Partido Comunista Português)",
+    "party_lrecon_label": "far_left",
+    "party_galtan_label": "left"
+  },
+  {
+    "account_username": "dep.pcp.pe",
+    "account_name": "PCP Parlamento Europeu",
+    "account_type": "parliamentary_group",
+    "associated_party": "PCP (Partido Comunista Português)",
+    "party_lrecon_label": "far_left",
+    "party_galtan_label": "left"
+  },
+  {
+    "account_username": "grupo.parlamentar",
+    "account_name": "CDS-PP Parlamento",
+    "account_type": "parliamentary_group",
+    "associated_party": "CDS-PP (CDS-Partido Popular)",
+    "party_lrecon_label": "right",
+    "party_galtan_label": "far_right"
+  },
+  {
+    "account_username": "jovens.liberais",
+    "account_name": "Jovens da IL",
+    "account_type": "youth_wing",
+    "associated_party": "IL (Iniciativa Liberal)",
+    "party_lrecon_label": "far_right",
+    "party_galtan_label": "left"
+  },
+  {
+    "account_username": "juventudepan",
+    "account_name": "Juventude do PAN",
+    "account_type": "youth_wing",
+    "associated_party": "PAN (Pessoas-Animais-Natureza)",
+    "party_lrecon_label": "left",
+    "party_galtan_label": "far-left"
+  },
+    {
+    "account_username": "pedronunosantosoficial",
+    "account_name": "Pedro Nuno Santos",
+    "account_type": "personality",
+    "associated_party": "PS (Partido Socialista)",
+    "party_lrecon_label": "left",
+    "party_galtan_label": "left"
+  },
+  {
+    "account_username": "ana.mendes.godinho",
+    "account_name": "Ana Mendes Godinho",
+    "account_type": "personality",
+    "associated_party": "PS (Partido Socialista)",
+    "party_lrecon_label": "left",
+    "party_galtan_label": "left"
+  },
+  {
+    "account_username": "marta.temido",
+    "account_name": "Marta Temido",
+    "account_type": "personality",
+    "associated_party": "PS (Partido Socialista)",
+    "party_lrecon_label": "left",
+    "party_galtan_label": "left"
+  },
+  {
+    "account_username": "brunogoncalvesb",
+    "account_name": "Bruno Gonçalves",
+    "account_type": "personality",
+    "associated_party": "PS (Partido Socialista)",
+    "party_lrecon_label": "left",
+    "party_galtan_label": "left"
+  },
+  {
+    "account_username": "miguelcostamatos",
+    "account_name": "Miguel Costa Matos",
+    "account_type": "personality",
+    "associated_party": "PS (Partido Socialista)",
+    "party_lrecon_label": "left",
+    "party_galtan_label": "left"
+  },
+  {
+    "account_username": "pauloancafofo",
+    "account_name": "Paulo Cafôfo",
+    "account_type": "personality",
+    "associated_party": "PS (Partido Socialista)",
+    "party_lrecon_label": "left",
+    "party_galtan_label": "left"
+  },
+  {
+    "account_username": "franciscovalecesar",
+    "account_name": "Francisco Vale César",
+    "account_type": "personality",
+    "associated_party": "PS (Partido Socialista)",
+    "party_lrecon_label": "left",
+    "party_galtan_label": "left"
+  },
+  {
+    "account_username": "anacatarinamendesps",
+    "account_name": "Ana Catarina Mendes",
+    "account_type": "personality",
+    "associated_party": "PS (Partido Socialista)",
+    "party_lrecon_label": "left",
+    "party_galtan_label": "left"
+  },
+  {
+    "account_username": "ivancgoncalves",
+    "account_name": "Ivan Gonçalves",
+    "account_type": "personality",
+    "associated_party": "PS (Partido Socialista)",
+    "party_lrecon_label": "left",
+    "party_galtan_label": "left"
+  },
+  {
+    "account_username": "tiago.barbosa.ribeiro",
+    "account_name": "Tiago Barbosa Ribeiro",
+    "account_type": "personality",
+    "associated_party": "PS (Partido Socialista)",
+    "party_lrecon_label": "left",
+    "party_galtan_label": "left"
+  },
+  {
+    "account_username": "lmontenegro_pt",
+    "account_name": "Luís Montenegro",
+    "account_type": "personality",
+    "associated_party": "PSD (Partido Social Democrata)",
+    "party_lrecon_label": "right",
+    "party_galtan_label": "right"
+  },
+  {
+    "account_username": "carlosmoedas",
+    "account_name": "Carlos Moedas",
+    "account_type": "personality",
+    "associated_party": "PSD (Partido Social Democrata)",
+    "party_lrecon_label": "right",
+    "party_galtan_label": "right"
+  },
+  {
+    "account_username": "alexandrepoco",
+    "account_name": "Alexandre Poço",
+    "account_type": "personality",
+    "associated_party": "PSD (Partido Social Democrata)",
+    "party_lrecon_label": "right",
+    "party_galtan_label": "right"
+  },
+  {
+    "account_username": "margaridablopes",
+    "account_name": "Margarida Balseiro Lopes",
+    "account_type": "personality",
+    "associated_party": "PSD (Partido Social Democrata)",
+    "party_lrecon_label": "right",
+    "party_galtan_label": "right"
+  },
+  {
+    "account_username": "ricardo.baptistaleite",
+    "account_name": "Ricardo Baptista Leite",
+    "account_type": "personality",
+    "associated_party": "PSD (Partido Social Democrata)",
+    "party_lrecon_label": "right",
+    "party_galtan_label": "right"
+  },
+  {
+    "account_username": "hugopmoliveira",
+    "account_name": "Hugo Oliveira",
+    "account_type": "personality",
+    "associated_party": "PSD (Partido Social Democrata)",
+    "party_lrecon_label": "right",
+    "party_galtan_label": "right"
+  },
+  {
+    "account_username": "analealmoreiraa",
+    "account_name": "Ana Leal Moreira",
+    "account_type": "personality",
+    "associated_party": "PSD (Partido Social Democrata)",
+    "party_lrecon_label": "right",
+    "party_galtan_label": "right"
+  },
+  {
+    "account_username": "miguelpintoluz",
+    "account_name": "Miguel Pinto Luz",
+    "account_type": "personality",
+    "associated_party": "PSD (Partido Social Democrata)",
+    "party_lrecon_label": "right",
+    "party_galtan_label": "right"
+  },
+  {
+    "account_username": "lidiafopereira",
+    "account_name": "Lídia Pereira",
+    "account_type": "personality",
+    "associated_party": "PSD (Partido Social Democrata)",
+    "party_lrecon_label": "right",
+    "party_galtan_label": "right"
+  },
+  {
+    "account_username": "joaoalmeida.cds",
+    "account_name": "João Pinho de Almeida",
+    "account_type": "personality",
+    "associated_party": "CDS-PP (CDS-Partido Popular)",
+    "party_lrecon_label": "right",
+    "party_galtan_label": "far_right"
+  },
+  {
+    "account_username": "nunomelo.cds",
+    "account_name": "Nuno Melo",
+    "account_type": "personality",
+    "associated_party": "CDS-PP (CDS-Partido Popular)",
+    "party_lrecon_label": "right",
+    "party_galtan_label": "far_right"
+  },
+  {
+    "account_username": "catarina_smartins",
+    "account_name": "Catarina Martins",
+    "account_type": "personality",
+    "associated_party": "BE (Bloco de Esquerda)",
+    "party_lrecon_label": "far_left",
+    "party_galtan_label": "far_left"
+  },
+  {
+    "account_username": "marisa_matias",
+    "account_name": "Marisa Matias",
+    "account_type": "personality",
+    "associated_party": "BE (Bloco de Esquerda)",
+    "party_lrecon_label": "far_left",
+    "party_galtan_label": "far_left"
+  },
+  {
+    "account_username": "marianarmortagua",
+    "account_name": "Mariana Mortágua",
+    "account_type": "personality",
+    "associated_party": "BE (Bloco de Esquerda)",
+    "party_lrecon_label": "far_left",
+    "party_galtan_label": "far_left"
+  },
+  {
+    "account_username": "joanarmortagua",
+    "account_name": "Joana Mortágua",
+    "account_type": "personality",
+    "associated_party": "BE (Bloco de Esquerda)",
+    "party_lrecon_label": "far_left",
+    "party_galtan_label": "far_left"
+  },
+  {
+    "account_username": "fabianfigueiredo",
+    "account_name": "Fabian Figueiredo",
+    "account_type": "personality",
+    "associated_party": "BE (Bloco de Esquerda)",
+    "party_lrecon_label": "far_left",
+    "party_galtan_label": "far_left"
+  },
+  {
+    "account_username": "mariaescaja",
+    "account_name": "Maria Escaja",
+    "account_type": "personality",
+    "associated_party": "BE (Bloco de Esquerda)",
+    "party_lrecon_label": "far_left",
+    "party_galtan_label": "far_left"
+  },
+  {
+    "account_username": "ruitavarespt",
+    "account_name": "Rui Tavares",
+    "account_type": "personality",
+    "associated_party": "Livre",
+    "party_lrecon_label": "left",
+    "party_galtan_label": "far_left"
+  },
+  {
+    "account_username": "filipagpinto",
+    "account_name": "Filipa Pinto",
+    "account_type": "personality",
+    "associated_party": "Livre",
+    "party_lrecon_label": "left",
+    "party_galtan_label": "far_left"
+  },
+  {
+    "account_username": "paulovmuacho",
+    "account_name": "Paulo Muacho",
+    "account_type": "personality",
+    "associated_party": "Livre",
+    "party_lrecon_label": "left",
+    "party_galtan_label": "far_left"
+  },
+  {
+    "account_username": "filipeafhonorio",
+    "account_name": "Filipe Honório",
+    "account_type": "personality",
+    "associated_party": "Livre",
+    "party_lrecon_label": "left",
+    "party_galtan_label": "far_left"
+  },
+  {
+    "account_username": "jcf_liberal",
+    "account_name": "João Cotrim de Figueiredo",
+    "account_type": "personality",
+    "associated_party": "IL (Iniciativa Liberal)",
+    "party_lrecon_label": "far_right",
+    "party_galtan_label": "left"
+  },
+  {
+    "account_username": "cgpliberal",
+    "account_name": "Carlos Guimarães Pinto",
+    "account_type": "personality",
+    "associated_party": "IL (Iniciativa Liberal)",
+    "party_lrecon_label": "far_right",
+    "party_galtan_label": "left"
+  },
+  {
+    "account_username": "bernardo_blanco",
+    "account_name": "Bernardo Blanco",
+    "account_type": "personality",
+    "associated_party": "IL (Iniciativa Liberal)",
+    "party_lrecon_label": "far_right",
+    "party_galtan_label": "left"
+  },
+  {
+    "account_username": "glevycordeiro",
+    "account_name": "Gonçalo Levy Cordeiro",
+    "account_type": "personality",
+    "associated_party": "IL (Iniciativa Liberal)",
+    "party_lrecon_label": "far_right",
+    "party_galtan_label": "left"
+  },
+  {
+    "account_username": "malliberal",
+    "account_name": "Mário Amorim Lopes",
+    "account_type": "personality",
+    "associated_party": "IL (Iniciativa Liberal)",
+    "party_lrecon_label": "far_right",
+    "party_galtan_label": "left"
+  },
+  {
+    "account_username": "marianalcql",
+    "account_name": "Mariana Leitão",
+    "account_type": "personality",
+    "associated_party": "IL (Iniciativa Liberal)",
+    "party_lrecon_label": "far_right",
+    "party_galtan_label": "left"
+  },
+  {
+    "account_username": "patrcia.gilvaz",
+    "account_name": "Patrícia Gilvaz",
+    "account_type": "personality",
+    "associated_party": "IL (Iniciativa Liberal)",
+    "party_lrecon_label": "far_right",
+    "party_galtan_label": "left"
+  },
+  {
+    "account_username": "andre_ventura_oficial",
+    "account_name": "André Ventura",
+    "account_type": "personality",
+    "associated_party": "Chega",
+    "party_lrecon_label": "far_right",
+    "party_galtan_label": "far_right"
+  },
+  {
+    "account_username": "pedropinto_chega",
+    "account_name": "Pedro Pinto",
+    "account_type": "personality",
+    "associated_party": "Chega",
+    "party_lrecon_label": "far_right",
+    "party_galtan_label": "far_right"
+  },
+  {
+    "account_username": "joao.tilly",
+    "account_name": "João Tilly",
+    "account_type": "personality",
+    "associated_party": "Chega",
+    "party_lrecon_label": "far_right",
+    "party_galtan_label": "far_right"
+  },
+  {
+    "account_username": "pedro_frazao_oficial",
+    "account_name": "Pedro Frazão",
+    "account_type": "personality",
+    "associated_party": "Chega",
+    "party_lrecon_label": "far_right",
+    "party_galtan_label": "far_right"
+  },
+  {
+    "account_username": "a.pinto.pereira",
+    "account_name": "António Pinto Pereira",
+    "account_type": "personality",
+    "associated_party": "Chega",
+    "party_lrecon_label": "far_right",
+    "party_galtan_label": "far_right"
+  },
+  {
+    "account_username": "ritamariamatias_ch",
+    "account_name": "Rita Matias",
+    "account_type": "personality",
+    "associated_party": "Chega",
+    "party_lrecon_label": "far_right",
+    "party_galtan_label": "far_right"
+  },
+  {
+    "account_username": "rui_paulo_sousa",
+    "account_name": "Rui Paulo Sousa",
+    "account_type": "personality",
+    "associated_party": "Chega",
+    "party_lrecon_label": "far_right",
+    "party_galtan_label": "far_right"
+  },
+  {
+    "account_username": "pcarvalho_ch",
+    "account_name": "Patrícia de Carvalho",
+    "account_type": "personality",
+    "associated_party": "Chega",
+    "party_lrecon_label": "far_right",
+    "party_galtan_label": "far_right"
+  },
+  {
+    "account_username": "mcrchdep",
+    "account_name": "Cristina Rodrigues",
+    "account_type": "personality",
+    "associated_party": "Chega",
+    "party_lrecon_label": "far_right",
+    "party_galtan_label": "far_right"
+  },
+  {
+    "account_username": "brunonuneschega",
+    "account_name": "Bruno Nunes",
+    "account_type": "personality",
+    "associated_party": "Chega",
+    "party_lrecon_label": "far_right",
+    "party_galtan_label": "far_right"
+  },
+  {
+    "account_username": "rui_afonso_chega",
+    "account_name": "Rui Afonso",
+    "account_type": "personality",
+    "associated_party": "Chega",
+    "party_lrecon_label": "far_right",
+    "party_galtan_label": "far_right"
+  },
+  {
+    "account_username": "franciscogomes.chega",
+    "account_name": "Francisco Gomes",
+    "account_type": "personality",
+    "associated_party": "Chega",
+    "party_lrecon_label": "far_right",
+    "party_galtan_label": "far_right"
+  },
+  {
+    "account_username": "jorge_galveias",
+    "account_name": "Jorge Galveias",
+    "account_type": "personality",
+    "associated_party": "Chega",
+    "party_lrecon_label": "far_right",
+    "party_galtan_label": "far_right"
+  },
+  {
+    "account_username": "ines.sousa.real",
+    "account_name": "Inês Sousa Real",
+    "account_type": "personality",
+    "associated_party": "PAN (Pessoas-Animais-Natureza)",
+    "party_lrecon_label": "left",
+    "party_galtan_label": "far_left"
+  }
+]

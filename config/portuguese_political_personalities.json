@@ -1,0 +1,208 @@
+{
+  "political_personalities": {
+    "pedronunosantosoficial": {
+      "name": "Pedro Nuno Santos",
+      "party": "PS"
+    },
+    "ana.mendes.godinho": {
+      "name": "Ana Mendes Godinho",
+      "party": "PS"
+    },
+    "marta.temido": {
+      "name": "Marta Temido",
+      "party": "PS"
+    },
+    "brunogoncalvesb": {
+      "name": "Bruno Gonçalves",
+      "party": "PS"
+    },
+    "miguelcostamatos": {
+      "name": "Miguel Costa Matos",
+      "party": "PS"
+    },
+    "pauloancafofo": {
+      "name": "Paulo Cafôfo",
+      "party": "PS"
+    },
+    "franciscovalecesar": {
+      "name": "Francisco Vale César",
+      "party": "PS"
+    },
+    "anacatarinamendesps": {
+      "name": "Ana Catarina Mendes",
+      "party": "PS"
+    },
+    "ivancgoncalves": {
+      "name": "Ivan Gonçalves",
+      "party": "PS"
+    },
+    "tiago.barbosa.ribeiro": {
+      "name": "Tiago Barbosa Ribeiro",
+      "party": "PS"
+    },
+    "lmontenegro_pt": {
+      "name": "Luís Montenegro",
+      "party": "PSD"
+    },
+    "carlosmoedas": {
+      "name": "Carlos Moedas",
+      "party": "PSD"
+    },
+    "alexandrepoco": {
+      "name": "Alexandre Poço",
+      "party": "PSD"
+    },
+    "margaridablopes": {
+      "name": "Margarida Balseiro Lopes",
+      "party": "PSD"
+    },
+    "ricardo.baptistaleite": {
+      "name": "Ricardo Baptista Leite",
+      "party": "PSD"
+    },
+    "hugopmoliveira": {
+      "name": "Hugo Oliveira",
+      "party": "PSD"
+    },
+    "joaoalmeida.cds": {
+      "name": "João Pinho de Almeida",
+      "party": "CDS-PP"
+    },
+    "nunomelo.cds": {
+      "name": "Nuno Melo",
+      "party": "CDS-PP"
+    },
+    "catarina_smartins": {
+      "name": "Catarina Martins",
+      "party": "BE"
+    },
+    "marisa_matias": {
+      "name": "Marisa Matias",
+      "party": "BE"
+    },
+    "marianarmortagua": {
+      "name": "Mariana Mortágua",
+      "party": "BE"
+    },
+    "joanarmortagua": {
+      "name": "Joana Mortágua",
+      "party": "BE"
+    },
+    "fabianfigueiredo": {
+      "name": "Fabian Figueiredo",
+      "party": "BE"
+    },
+    "mariaescaja": {
+      "name": "Maria Escaja",
+      "party": "BE"
+    },
+    "ruitavarespt": {
+      "name": "Rui Tavares",
+      "party": "Livre"
+    },
+    "filipagpinto": {
+      "name": "Filipa Pinto",
+      "party": "Livre"
+    },
+    "paulovmuacho": {
+      "name": "Paulo Muacho",
+      "party": "Livre"
+    },
+    "filipeafhonorio": {
+      "name": "Filipe Honório",
+      "party": "Livre"
+    },
+    "jcf_liberal": {
+      "name": "João Cotrim de Figueiredo",
+      "party": "IL"
+    },
+    "cgpliberal": {
+      "name": "Carlos Guimarães Pinto",
+      "party": "IL"
+    },
+    "bernardo_blanco": {
+      "name": "Bernardo Blanco",
+      "party": "IL"
+    },
+    "glevycordeiro": {
+      "name": "Gonçalo Levy Cordeiro",
+      "party": "IL"
+    },
+    "malliberal": {
+      "name": "Mário Amorim Lopes",
+      "party": "IL"
+    },
+    "marianalqcl": {
+      "name": "Mariana Leitão",
+      "party": "IL"
+    },
+    "patrcia.gilvaz": {
+      "name": "Patrícia Gilvaz",
+      "party": "IL"
+    },
+    "andre_ventura_oficial": {
+      "name": "André Ventura",
+      "party": "Chega"
+    },
+    "pedropinto_chega": {
+      "name": "Pedro Pinto",
+      "party": "Chega"
+    },
+    "joao.tilly": {
+      "name": "João Tilly",
+      "party": "Chega"
+    },
+    "pedro_frazao_oficial": {
+      "name": "Pedro Frazão",
+      "party": "Chega"
+    },
+    "a.pinto.pereira": {
+      "name": "António Pinto Pereira",
+      "party": "Chega"
+    },
+    "ritamariamatias_ch": {
+      "name": "Rita Matias",
+      "party": "Chega"
+    },
+    "rui_paulo_sousa": {
+      "name": "Rui Paulo Sousa",
+      "party": "Chega"
+    },
+    "pcarvalho_ch": {
+      "name": "Patrícia de Carvalho",
+      "party": "Chega"
+    },
+    "mcrchdep": {
+      "name": "Cristina Rodrigues",
+      "party": "Chega"
+    },
+    "brunonuneschega": {
+      "name": "Bruno Nunes",
+      "party": "Chega"
+    },
+    "rui_afonso_chega": {
+      "name": "Rui Afonso",
+      "party": "Chega"
+    },
+    "franciscogomes.chega": {
+      "name": "Francisco Gomes",
+      "party": "Chega"
+    },
+    "jorge_galveias": {
+      "name": "Jorge Galveias",
+      "party": "Chega"
+    },
+    "ines.sousa.real": {
+      "name": "Inês Sousa Real",
+      "party": "PAN"
+    },
+    "ossandaliberoficial": {
+      "name": "Ossanda Liber",
+      "party": "Nova Direita"
+    },
+    "joanaamaraldias": {
+      "name": "Joana Amaral Dias",
+      "party": "ADN"
+    }
+  }
+}
