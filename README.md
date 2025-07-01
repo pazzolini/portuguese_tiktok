@@ -23,6 +23,8 @@ Please note that while the data collection scripts are shared, the full analysis
   - political_personalities_following.py: Collects the list of accounts followed by personalities.
 
   - political_personalities_reposted.py: Collects data on videos reposted by personalities.
+    
+  - all_portuguese_accounts_for_classification.py: Collects videos' data for the classification model.
 
 
 ### How to Cite
